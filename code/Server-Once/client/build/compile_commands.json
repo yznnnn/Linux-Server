@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yzn/project/Linux-Server/code/Server-Once/client/build",
+  "command": "/usr/bin/clang++-14    -g   -o CMakeFiles/Client.dir/main.cpp.o -c /home/yzn/project/Linux-Server/code/Server-Once/client/main.cpp",
+  "file": "/home/yzn/project/Linux-Server/code/Server-Once/client/main.cpp"
+}
+]
