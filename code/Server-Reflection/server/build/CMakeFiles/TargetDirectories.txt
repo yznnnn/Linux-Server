@@ -1,0 +1,3 @@
+/home/yzn/project/Linux-Server/code/Server-Reflection/server/build/CMakeFiles/rebuild_cache.dir
+/home/yzn/project/Linux-Server/code/Server-Reflection/server/build/CMakeFiles/edit_cache.dir
+/home/yzn/project/Linux-Server/code/Server-Reflection/server/build/CMakeFiles/Server.dir

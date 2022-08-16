@@ -1,0 +1,1 @@
+/usr/bin/clang++-14  -g   CMakeFiles/Server.dir/main.cpp.o  -o Server 

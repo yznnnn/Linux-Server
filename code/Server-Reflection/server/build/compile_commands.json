@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yzn/project/Linux-Server/code/Server-Reflection/server/build",
+  "command": "/usr/bin/clang++-14    -g   -o CMakeFiles/Server.dir/main.cpp.o -c /home/yzn/project/Linux-Server/code/Server-Reflection/server/main.cpp",
+  "file": "/home/yzn/project/Linux-Server/code/Server-Reflection/server/main.cpp"
+}
+]

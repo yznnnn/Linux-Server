@@ -1,0 +1,1 @@
+/usr/bin/clang++-14  -g   CMakeFiles/Client.dir/main.cpp.o  -o Client 
