@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yzn/project/Linux-Server/code/Server-Multi_Process/server/main.cpp
+arpa/inet.h
+-
+asm-generic/errno-base.h
+-
+cerrno
+-
+csignal
+-
+cstddef
+-
+cstdio
+-
+cstring
+-
+ostream
+-
+signal.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+
