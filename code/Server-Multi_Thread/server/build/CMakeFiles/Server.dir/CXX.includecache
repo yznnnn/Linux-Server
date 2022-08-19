@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/Server.cpp
+Server.h
+/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/Server.h
+cstdio
+-
+pthread.h
+-
+unistd.h
+-
+
+/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/Server.h
+arpa/inet.h
+-
+bits/types/time_t.h
+-
+cstddef
+-
+cstdio
+-
+cstring
+-
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+time.h
+-
+unistd.h
+-
+

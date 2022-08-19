@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/build",
+  "command": "/usr/bin/clang++-14    -g   -o CMakeFiles/Server.dir/main.cpp.o -c /home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/main.cpp",
+  "file": "/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/main.cpp"
+},
+{
+  "directory": "/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/build",
+  "command": "/usr/bin/clang++-14    -g   -o CMakeFiles/Server.dir/Server.cpp.o -c /home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/Server.cpp",
+  "file": "/home/yzn/project/Linux-Server/code/Server-Multi_Thread/server/Server.cpp"
+}
+]

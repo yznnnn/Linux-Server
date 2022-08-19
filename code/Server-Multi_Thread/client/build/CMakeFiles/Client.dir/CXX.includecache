@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yzn/project/Linux-Server/code/Server-Multi_Thread/client/main.cpp
+arpa/inet.h
+-
+cstdio
+-
+cstring
+-
+ostream
+-
+unistd.h
+-
+
